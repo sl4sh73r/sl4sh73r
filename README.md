@@ -10,7 +10,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7225A&lines=Computer+sciences+tuden)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7225A&lines=Computer+sciences+studen)](https://git.io/typing-svg)
 
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SL4SH73R&theme=monokai)
