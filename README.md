@@ -12,7 +12,7 @@
 
 ---
 
-****[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=11C0CE&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=11C0CE&lines=Computer+science+student)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL4SH73R)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SL4SH73R)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SL4SH73R)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,9 +20,9 @@
 
 
 
-```
+
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-```
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
