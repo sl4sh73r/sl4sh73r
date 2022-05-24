@@ -18,7 +18,7 @@
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SL4SH73R&theme=monokai)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SL4SH73R&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sl4sh73r&theme=monokai)
-
+![SL4SHER STATS](https://github-readme-stats.vercel.app/api?username=sl4sh73r&show_icons=true&theme=monokai)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
