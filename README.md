@@ -4,6 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SL4SH73R&label=PROFILE+VIEWS+(просмотров+профиля))
 
+![](https://c.tenor.com/MPKDv186Dn8AAAAM/kaworu-kaworu-nagisa.gif)
 ---
 
 **my resume**
