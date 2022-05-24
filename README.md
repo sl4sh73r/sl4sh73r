@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SL4SH73R&label=PROFILE+VIEWS+(просмотров+профиля))
 
-![](https://i.gifer.com/origin/98/9843a7168aac741b80d17aaf7b647e5b.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71494&lines=Computer+sciences+tuden)](https://git.io/typing-svg)
 
 ---
 
