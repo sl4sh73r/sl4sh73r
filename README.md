@@ -4,15 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=SL4SH73R&label=PROFILE+VIEWS+(просмотров+профиля))
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71494&lines=Computer+sciences+tuden)](https://git.io/typing-svg)
-
 ---
 
 **my resume**
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=11C0CE&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7225A&lines=Computer+sciences+tuden)](https://git.io/typing-svg)
 
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SL4SH73R&theme=monokai)
