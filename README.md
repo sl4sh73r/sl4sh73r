@@ -14,7 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=11C0CE&lines=Computer+science+student)](https://git.io/typing-svg)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SL4SH73R&theme=monokai)
 
