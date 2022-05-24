@@ -19,10 +19,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sl4sh73r)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
