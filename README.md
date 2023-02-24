@@ -1,6 +1,6 @@
 <h3 align="left">
   <img src="https://media.tenor.com/UE6SRTn03pcAAAAC/aesthetic.gif" width="210px"><img src="https://media.tenor.com/UE6SRTn03pcAAAAC/aesthetic.gif" width="210px"><img src="https://media.tenor.com/UE6SRTn03pcAAAAC/aesthetic.gif" width="210px"><img src="https://media.tenor.com/UE6SRTn03pcAAAAC/aesthetic.gif" width="210px">
-
+ <img src="https://media.tenor.com/UE6SRTn03pcAAAAC/aesthetic.gif" width="840px">
 </h3>  
   
 <div align="center">    
