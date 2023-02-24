@@ -30,9 +30,7 @@
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sl4sh73r&count_private=true&show_icons=true&theme=dracula&hide_border=true&custom_title=Stats" height="192px"/>
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="SL4sh73R Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4sh73r&langs_count=8&layout=compact&theme=dracula&hide_border=true" height="192px"/>
-  </a>
+  
   <p>
    <a href="http://github-readme-streak-stats.herokuapp.com">
      <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=sl4sh73r&count_private=true&theme=dracula&hide_border=true&bg_color=#FFFAFA&title_color=#FFFAFA&icon_color=#FFFAFA">
