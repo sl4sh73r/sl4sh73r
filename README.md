@@ -1,5 +1,5 @@
 <h3 align="left">
- <img src="https://media.tenor.com/lu7ZRQm96x0AAAAi/heart-banner-kawaii.gif" width="210px"><img src="https://media.tenor.com/lu7ZRQm96x0AAAAi/heart-banner-kawaii.gif" width="210px"><img src="https://media.tenor.com/lu7ZRQm96x0AAAAi/heart-banner-kawaii.gif" width="210px"><img src="https://media.tenor.com/lu7ZRQm96x0AAAAi/heart-banner-kawaii.gif" width="210px">
+ <img src="https://media.tenor.com/DMwCFw-gp9QAAAAi/disc-banner.gif" width="210px"><img src="https://media.tenor.com/DMwCFw-gp9QAAAAi/disc-banner.gif" width="210px"><img src="https://media.tenor.com/DMwCFw-gp9QAAAAi/disc-banner.gif" width="210px"><img src="https://media.tenor.com/DMwCFw-gp9QAAAAi/disc-banner.gif" width="210px">
 </h3>  
   
 <div align="center">    
