@@ -18,7 +18,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=f76a92&width=435&lines=Hello%2C+everyone%2C+except+Vadim!;I'm+a+Cyber+Security+student;I+love+Java!;I+love+C%2B%2B!;and+I+love+python+too...)](https://git.io/typing-svg)
 
- #### 🧛🧛🧛Hi There, I'm <b><i>Sl4sh73R 🧛🧛🧛</i></b>
+ #### 🌸💗🎀Hi There, I'm <b><i>Sl4sh73R 🌸💗🎀</i></b>
 
  I ❤ Android, Web Developement and Pentesting
  
