@@ -1,6 +1,6 @@
 <h3 align="left">
   <img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px">
-  
+</h3>  
 <div align="center">    
   
  [Две миланы в домике](https://user-images.githubusercontent.com/87204613/221285319-0823542f-6d19-4d82-b532-87798ba63008.webm)
@@ -9,7 +9,7 @@
 
 <h3 align="left">
   <img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px">
- 
+ </h3>  
 <h3 align="center">
   <img src="https://media.tenor.com/sPEBnofCEzQAAAAi/fee-fairy.gif" width="45">
   &nbsp; Welcome to SL4sh73R profile! &nbsp;
@@ -73,14 +73,16 @@
 #### Github Activity Graph 📊
 
 [![SL4sh72R's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sl4sh73r&theme=dracula&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
 <br>
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F76A92&width=435&lines=Thank+You+!;See+You+Again!;Bye+Bye+!;Are+u+still+reading!)](https://git.io/typing-svg)
 
 <br>
-
-
+<h3 align="center">
+   <img src="https://media.tenor.com/ASG0GwwWfPYAAAAC/vaporwave-cowboy-bebop.gif" x "width="640px">
+</h3>  
    
 
 
