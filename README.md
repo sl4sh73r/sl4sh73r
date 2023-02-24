@@ -1,6 +1,5 @@
 <h3 align="left">
- <img src="https://media.tenor.com/wAwKFbbHypcAAAAi/pink-divider.gif" width="840px">
-</h3>  
+  <img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px">
   
 <div align="center">    
   
@@ -8,7 +7,9 @@
   
 </div>
 
-
+<h3 align="left">
+  <img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px">
+ 
 <h3 align="center">
   <img src="https://media.tenor.com/sPEBnofCEzQAAAAi/fee-fairy.gif" width="45">
   &nbsp; Welcome to SL4sh73R profile! &nbsp;
@@ -78,8 +79,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F76A92&width=435&lines=Thank+You+!;See+You+Again!;Bye+Bye+!;Are+u+still+reading!)](https://git.io/typing-svg)
 
 <br>
-<h3 align="left">
-  <img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px"><img src="https://media.tenor.com/hU7Yf_4wVtgAAAAi/love-you-xoxo.gif" width="105px">
+
 
    
 
