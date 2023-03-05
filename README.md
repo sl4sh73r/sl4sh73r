@@ -42,7 +42,7 @@
  <br>
  
  <details close>
-   <summary><h4>⚔ My favorite tools</h4></summary>
+   <summary><h4>⚔ My favorite tools(open me!)</h4></summary>
    <h5>Programming Languages & Markup Languages</h5>
    <p>
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
