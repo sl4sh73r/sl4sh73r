@@ -23,26 +23,7 @@
  I ❤ Android, Web Developement and Pentesting
  
  
- 
-  #### Github Stats 🥀
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sl4sh73r&count_private=true&show_icons=true&theme=dracula&hide_border=true&custom_title=Stats" height="192px"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="SL4sh73R Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4sh73r&langs_count=8&layout=compact&theme=dracula&hide_border=true" height="192px"/>
-  </a>
-  <p>
-   <a href="http://github-readme-streak-stats.herokuapp.com">
-     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=sl4sh73r&count_private=true&theme=dracula&hide_border=true&bg_color=#FFFAFA&title_color=#FFFAFA&icon_color=#FFFAFA">
-  </a>
-  <img src="https://media.tenor.com/k7v9dZiw6rsAAAAi/hello-kitty.gif" width="200px"/>
-  </p>
- <br>
- 
- <details close>
-   <summary><h4>⚔ My favorite tools(open me!)</h4></summary>
+  <summary><h4>⚔ My favorite tools(open me!)</h4></summary>
    <h5>Programming Languages & Markup Languages</h5>
    <p>
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
