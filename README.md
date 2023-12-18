@@ -61,9 +61,7 @@
  
 [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/sl4sh73r/github-readme-quotify)
 
-#### Github Activity Graph 📊
 
-[![SL4sh72R's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sl4sh73r&theme=dracula&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 <br>
