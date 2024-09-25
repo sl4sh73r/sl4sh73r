@@ -5,7 +5,6 @@
   <img src="https://media.tenor.com/sPEBnofCEzQAAAAi/fee-fairy.gif" width="45">
 </h3>
 
- #### 🌸💗🎀Hi There, I'm <b><i>Sl4sh73R </i></b> 🌸💗🎀
 
  I ❤ Android, Web Developement and Pentesting
  
