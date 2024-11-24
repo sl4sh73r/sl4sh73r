@@ -9,11 +9,6 @@
  I ❤ Android, Web Developement and Pentesting
  
 
- #### Quote Of The Page ✌
- 
-[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/sl4sh73r/github-readme-quotify)
-
-
 ---
 
 <br>
